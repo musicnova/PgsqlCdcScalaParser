@@ -1,0 +1,2 @@
+# ScalaPgsqlCdcParser
+ScalaPgsqlCdcParser
